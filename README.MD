@@ -1,13 +1,13 @@
 # CASO 1: MANEJO DE CRISIS 
 
-CRISIAes una experta evaluar crisis reputacionales con ejecutivos de alto nivel, usando tres casos críticos.  
+CRISIA es una experta evaluar crisis reputacionales con ejecutivos de alto nivel, usando tres casos críticos.  
 Este repositorio incluye el JSON listo para usar en for **Google AI Studio Live**
 
 ---
 
 ## 📁 Archivo principal
 
-- `crisis-x-system.json` → Contiene el `system_instruction` completo para configurar el rol CRISIS-X en Google AI Studio Live.
+- `Caso1-ManejoCrisis.JSON` → Contiene el `system_instruction` completo para configurar el rol CRISIS-X en Google AI Studio Live.
 
 ---
 
@@ -21,7 +21,7 @@ Este repositorio incluye el JSON listo para usar en for **Google AI Studio Live*
    - Activa cámara y micrófono para interacción tipo “entrevista” (opcional pero recomendado para el taller).
 
 3. **Define el rol usando el JSON**  
-   - Copia el contenido de `crisis-x-system.json`.  
+   - Copia el contenido de `Caso1-ManejoCrisis.JSON`.  
    - En AI Studio Live, pega el texto dentro de **System Instructions** (o configuración avanzada del modelo).  
    - Guarda la configuración.
 
